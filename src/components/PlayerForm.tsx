@@ -1,5 +1,5 @@
 import React from "react";
-import { PlayerData, POSITIONS, Position } from "../types";
+import { type PlayerData, POSITIONS, type Position } from "../types";
 
 interface PlayerFormProps {
   player: PlayerData;
